@@ -2,6 +2,7 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Genres,/subjects.html,
+People,/associated.html,
 Locations,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
