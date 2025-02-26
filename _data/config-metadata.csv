@@ -8,5 +8,5 @@ genre,Genre,true,
 associated,Associated Persons,true,
 holding,Holding Institution,true,
 shelfmark,Shelfmark,,
-RISM,RISM Link,,
+RISM,RISM Link,,true
 sourcetype,Source Type,true,
