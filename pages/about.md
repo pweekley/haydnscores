@@ -111,3 +111,8 @@ Hob.III:63 - Location unknown (formerly private collection of Emil Krause)
 Hob.III:70 - Staatsbibliothek zu Berlin, Mus.ms.autogr. Haydn, J.30  
 Hob.III:73 - Österreichische Nationalbibliothek, Musiksammlung, Cod. 16835  
 
+## First Editions
+
+**String Quartets**
+Hob.III:78-80 - Internationale Stiftung Mozarteum, Biblioteca Mozartiana, Salzburg, NL Steppan Dru 385 [RISM](https://rism.online/sources/990027731)  
+
