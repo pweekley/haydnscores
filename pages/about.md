@@ -114,5 +114,6 @@ Hob.III:73 - Österreichische Nationalbibliothek, Musiksammlung, Cod. 16835
 ## First Editions
 
 **String Quartets**
+Hob.III:1-6 - Österreichische Nationalbibliothek, Musiksammlung [RISM](https://rism.online/sources/990027592)  
 Hob.III:78-80 - Internationale Stiftung Mozarteum, Biblioteca Mozartiana, Salzburg, NL Steppan Dru 385 [RISM](https://rism.online/sources/990027731)  
 
