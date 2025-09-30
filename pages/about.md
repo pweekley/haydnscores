@@ -115,5 +115,6 @@ Hob.III:73 - Österreichische Nationalbibliothek, Musiksammlung, Cod. 16835
 
 **String Quartets**
 Hob.III:1-6 - Österreichische Nationalbibliothek, Musiksammlung [RISM](https://rism.online/sources/990027592)  
+Hob.III:31-36 - Österreichische Nationalbibliothek, Sammlung Anthony van Hoboken [RISM](https://opac.rism.info/id/rismid/rism990027622)
 Hob.III:78-80 - Internationale Stiftung Mozarteum, Biblioteca Mozartiana, Salzburg, NL Steppan Dru 385 [RISM](https://rism.online/sources/990027731)  
 
