@@ -117,5 +117,6 @@ Hob.III:73 - Österreichische Nationalbibliothek, Musiksammlung, Cod. 16835
 Hob.III:1-6 - Österreichische Nationalbibliothek, Musiksammlung [RISM](https://rism.online/sources/990027592)  
 Hob.III:31-36 - Österreichische Nationalbibliothek, Sammlung Anthony van Hoboken [RISM](https://opac.rism.info/id/rismid/rism990027622)  
 Hob.III:44-49 - Staatsbibliothek zu Berlin, Mus. 18334 [RISM](https://opac.rism.info/id/rismid/rism990027651)  
+Hob.III:57-59 - [Bayerische Staatsbibliothek, Munich, 4 Mus.pr. 58768](https://opacplus.bsb-muenchen.de/title/BV007808448) [RISM](https://opac.rism.info/id/rismid/rism990027676)  
 Hob.III:78-80 - Internationale Stiftung Mozarteum, Biblioteca Mozartiana, Salzburg, NL Steppan Dru 385 [RISM](https://rism.online/sources/990027731)  
 
